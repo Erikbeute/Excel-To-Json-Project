@@ -1,0 +1,20 @@
+﻿{
+  "mappings": [
+    {
+      "excelColumn": "A",
+      "objectField": "Voornaam"
+    },
+    {
+      "excelColumn": "B",
+      "objectField": "Achternaam"
+    },
+    {
+      "excelColumn": "C",
+      "objectField": "Leeftijd"
+    },
+    {
+      "excelColumn": "D",
+      "objectField": "Functie"
+    }
+  ]
+}
